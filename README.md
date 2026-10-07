@@ -76,3 +76,5 @@ For learning AI related stuff and playgorund
 - https://github.com/ashishps1/awesome-system-design-resources
 - https://github.com/andyliszewski/webcrawl-mcp
 - https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise#rag-and-retrieval
+- https://github.com/DietrichGebert/ponytail/tree/main
+- https://github.com/addyosmani/agent-skills
